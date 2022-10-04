@@ -45,7 +45,7 @@ O layout da aplicação foi fornecido através do Figma.
 ## 📲 Telas
 
 <p align="center">
-  <img alt="ToDo" src="./assets/img/mobile-screens.png" width="200px">
+  <img alt="ToDo" src="./assets/img/mobile-screens.png" width="900px" style="border-radius: 12px">
 </p>
 
 ## 🛠 Tecnologias
@@ -61,7 +61,7 @@ Principais tecnologias utilizadas no projeto:
 ## 🦸 Autor
 
 <a href="https://github.com/carloshrjunior">
- <img alt="Carlos Junior" src="https://avatars.githubusercontent.com/u/32583439?v=4" style:"border-radius: 50%" width="100" />
+ <img alt="Carlos Junior" src="https://avatars.githubusercontent.com/u/32583439?v=4" style="border-radius: 50%" width="100" />
 </a>
 
 <br />
